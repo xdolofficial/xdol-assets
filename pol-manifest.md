@@ -1,37 +1,50 @@
-# x-DOL-x — Manifesto POL (Protocol-Owned Liquidity)
+# XDOL Digital Dollar — POL Manifest
 
-**Par de liquidez:** XDOL / USDT  
-**Rede:** Ethereum (ERC-20)
+Protocol-Owned Liquidity (POL) Framework
 
-## Diretrizes Gerais
+Network: Ethereum (ERC-20)
 
-O protocolo x-DOL-x adota uma política de liquidez permanente (Protocol-Owned Liquidity – POL),
-na qual toda a liquidez adicionada ao mercado público é de propriedade do próprio protocolo
-e permanece bloqueada por longo prazo.
+Primary Liquidity Pair:
+XDOL / USDT
 
-Essa abordagem tem como objetivo garantir estabilidade, previsibilidade e transparência
-para todos os participantes do ecossistema.
+---
 
-## Liquidez Inicial
+## Protocol Liquidity Philosophy
 
-- Liquidez inicial de referência: 500 USDT  
-- Preço de referência inicial: 1 XDOL ≈ 0,03 USDT  
-- Formação de par: XDOL / USDT  
+XDOL adopts a long-term Protocol-Owned Liquidity (POL) structure focused on ecosystem sustainability, liquidity stability, and transparent decentralized market participation.
 
-Os valores acima são referenciais e não representam garantia de preço ou paridade fixa.
+The protocol liquidity model is designed to strengthen long-term market infrastructure while reducing dependence on temporary external liquidity providers.
 
-## Bloqueio de Liquidez
+---
 
-- Duração mínima do bloqueio: 10 (dez) anos  
-- Modelo: Liquidez permanentemente controlada pelo protocolo  
-- Plataforma de bloqueio: a ser definida e divulgada publicamente  
-- Comprovação do bloqueio: será publicada após a efetivação da liquidez inicial  
+## Liquidity Structure
 
-## Compromisso do Protocolo
+The XDOL ecosystem may allocate liquidity through decentralized exchanges using structured liquidity management strategies aligned with long-term ecosystem growth.
 
-Toda a liquidez pública do x-DOL-x será adicionada de forma transparente
-e mantida sob bloqueio conforme descrito neste manifesto.
+Liquidity operations may include:
 
-Este documento estabelece as diretrizes oficiais de POL do protocolo
-e substitui qualquer comunicação anterior que mencionasse paridades,
-datas ou condições específicas divergentes.
+- Long-term liquidity positioning
+- Decentralized exchange integration
+- Transparent liquidity allocation
+- Multi-range liquidity management
+- Ecosystem-oriented market infrastructure
+
+---
+
+## Long-Term Commitment
+
+Part of the ecosystem liquidity structure may remain locked for extended periods as part of the protocol’s long-term infrastructure commitment.
+
+Lock details and verification records may be publicly disclosed through official ecosystem channels when applicable.
+
+---
+
+## Transparency
+
+All liquidity activity, token transfers, and market interactions remain publicly verifiable through blockchain explorers and decentralized analytics platforms.
+
+---
+
+## Official Communication
+
+Always verify official repositories, contract addresses, and liquidity references through official XDOL ecosystem channels.
