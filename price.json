@@ -1,12 +1,10 @@
 {
   "token": "XDOL",
-  "nome": "x-DOL-x",
-  "rede": "Ethereum",
-  "contrato": "0xA4842662637e7C8A0210247D89244B0E45d3f777",
-  "par_referencia": "XDOL/USDT",
-  "preco_referencia_usdt": 0.03,
-  "descricao_preco": "Preço de referência inicial. Não representa valor fixo ou garantido.",
-  "liquidez_inicial_usdt": 500,
-  "bloqueio_liquidez_anos": 10,
-  "status": "pre-launch"
+  "name": "XDOL Digital Dollar",
+  "network": "Ethereum",
+  "contract": "0xA4842662637e7C8A0210247D89244B0E45d3f777",
+  "data_source": "Dexscreener",
+  "dexscreener_pair": "https://dexscreener.com/ethereum/0x863a3534136d1f4a6513d78daff7dfbe6daf5eb8",
+  "api_endpoint": "https://api.dexscreener.com/latest/dex/pairs/ethereum/0x863a3534136d1f4a6513d78daff7dfbe6daf5eb8",
+  "status": "active"
 }
