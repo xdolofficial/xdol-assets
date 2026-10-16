@@ -1,6 +1,6 @@
 # XDOL Digital Dollar — Token Purpose Statement
 
-XDOL Digital Dollar (XDOL) is an Ethereum-based ERC-20 digital asset designed for decentralized liquidity, digital transactions, and blockchain ecosystem integration.
+XDOL Digital Dollar (XDOL) is a multichain digital asset designed for decentralized liquidity, digital transactions, and blockchain ecosystem integration. Contract references cover Ethereum (ERC-20), BNB Smart Chain (BEP-20), TRON (TRC-20), and Robinhood Chain; see the [network and contract directory](README.md#-networks--contracts).
 
 The XDOL ecosystem is structured to support decentralized finance (DeFi) infrastructure, liquidity operations, digital payments, and smart contract interoperability across blockchain-based applications.
 
@@ -12,7 +12,7 @@ The token is designed exclusively for ecosystem utility, decentralized transacti
 
 ## Transparency
 
-All token activity, transfers, and supply information remain publicly verifiable on the Ethereum blockchain.
+Check token activity, transfers, and contract-level supply on the corresponding network explorer. The project uses 6 decimals and a maximum supply of 500,000,000 XDOL, counted once across network representations. This purpose statement does not guarantee a 1:1 USD peg, reserve backing, redemption, profit, or completed integrations.
 
 ---
 

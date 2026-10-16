@@ -1,15 +1,14 @@
 # XDOL Digital Dollar — Supply & Infrastructure Statement
 
-Network: Ethereum (ERC-20)
+Networks: Ethereum (ERC-20), BNB Smart Chain (BEP-20), TRON (TRC-20), and Robinhood Chain.
 
-Official Contract:
-0xA4842662637e7C8A0210247D89244B0E45d3f777
+Official contract references and checked explorer links: [network and contract directory](README.md#-networks--contracts).
 
 ---
 
 ## Token Infrastructure
 
-XDOL is deployed as an ERC-20 digital asset on the Ethereum blockchain.
+XDOL Digital Dollar is presented as a multichain digital asset. Each network uses its own contract address and token standard.
 
 The project infrastructure is designed with a focus on transparency, long-term ecosystem development, and decentralized liquidity integration.
 
@@ -17,13 +16,15 @@ The project infrastructure is designed with a focus on transparency, long-term e
 
 ## Supply Structure
 
-- ERC-20 Standard
+- 6 decimals
+- Project maximum supply: 500,000,000 XDOL, counted once across network representations
+- Network-specific token standards
 - Public blockchain verification
 - Transparent on-chain supply tracking
 - Decentralized wallet compatibility
-- Ethereum ecosystem integration
+- Multichain contract references
 
-All token activity and supply information can be publicly verified through blockchain explorers and decentralized analytics platforms.
+Contract-level activity and supply must be checked on the corresponding network explorer. Bridged representations must be reconciled with source-network locks or burns to avoid double-counting; a per-network total is not additional project supply. The existing supply.json remains a dated Ethereum snapshot, not a current consolidated multichain circulating-supply report.
 
 ---
 
@@ -31,7 +32,7 @@ All token activity and supply information can be publicly verified through block
 
 XDOL prioritizes transparent ecosystem infrastructure and publicly verifiable blockchain activity.
 
-Contract interactions, transfers, liquidity activity, and token distribution remain accessible through the Ethereum network.
+Check contract interactions, transfers, liquidity activity, and token distribution on the relevant network. Explorer code verification does not establish bridge security or a completed independent audit.
 
 ---
 

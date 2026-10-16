@@ -2,18 +2,17 @@
 
 Token Name: XDOL Digital Dollar  
 Symbol: XDOL  
-Network: Ethereum (ERC-20)
+Networks: Ethereum (ERC-20), BNB Smart Chain (BEP-20), TRON (TRC-20), and Robinhood Chain.
 
-Official Contract:
-0xA4842662637e7C8A0210247D89244B0E45d3f777
+Official contract references and checked explorer links: [network and contract directory](README.md#-networks--contracts).
 
 ---
 
 ## Ecosystem Status
 
-XDOL is an active Ethereum-based digital asset project focused on liquidity infrastructure, transparency, and long-term ecosystem development.
+XDOL Digital Dollar is a multichain digital asset project focused on liquidity infrastructure, transparency, and long-term ecosystem development.
 
-The project continues to expand its decentralized market presence through structured liquidity management and ecosystem integration.
+Ecosystem development goals do not establish completed integrations, partnerships, or listings. Available markets and liquidity must be checked separately for each network.
 
 ---
 
@@ -32,7 +31,7 @@ Some liquidity positions may remain locked for extended periods as part of the e
 
 ## Transparency
 
-All token activity, supply information, and market interactions are publicly verifiable on the Ethereum blockchain.
+Check token activity, contract-level supply, and market interactions on the corresponding network explorer. XDOL uses 6 decimals and has a project maximum supply of 500,000,000 XDOL, not that amount of new supply per network. Reconcile bridged representations with source-network locks or burns before reporting consolidated supply.
 
 ---
 
